@@ -1,5 +1,9 @@
-MultimodalVisionAssistant is a conversational AI system built to support visually impaired users. By combining state-of-the-art models for object detection, depth estimation, speech recognition, visual question answering (VQA), and text-to-speech, this assistant provides real-time, accessible, and context-aware responses to users' spoken questions about their environment. The app can be found on Hugging Face Space using the following link: https://huggingface.co/spaces/saa231/MutimodalVisionAssistant 
+Multimodal Vision Assistant 
 ---
+
+MultimodalVisionAssistant is a conversational AI system built to support visually impaired users. By combining state-of-the-art models for object detection, depth estimation, speech recognition, visual question answering (VQA), and text-to-speech, this assistant provides real-time, accessible, and context-aware responses to users' spoken questions about their environment.
+
+The app can be found on Hugging Face Space using the following link: https://huggingface.co/spaces/saa231/MutimodalVisionAssistant 
 
 **Features**
   1. Object detection using YOLOv9
