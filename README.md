@@ -1,5 +1,5 @@
 Multimodal Vision Assistant 
-
+---
 
 MultimodalVisionAssistant is a conversational AI system built to support visually impaired users. By combining state-of-the-art models for object detection, depth estimation, speech recognition, visual question answering (VQA), and text-to-speech, this assistant provides real-time, accessible, and context-aware responses to users' spoken questions about their environment.
 
