@@ -1,0 +1,12 @@
+numpy
+torch
+opencv-python
+transformers
+ultralytics
+TTS
+gradio
+huggingface_hub
+Pillow
+scipy
+librosa
+timm
