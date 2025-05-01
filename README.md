@@ -1,5 +1,5 @@
 Multimodal Vision Assistant 
----
+
 
 MultimodalVisionAssistant is a conversational AI system built to support visually impaired users. By combining state-of-the-art models for object detection, depth estimation, speech recognition, visual question answering (VQA), and text-to-speech, this assistant provides real-time, accessible, and context-aware responses to users' spoken questions about their environment.
 
@@ -13,6 +13,7 @@ The app can be found on Hugging Face Space using the following link: https://hug
   5. Shared visual context generation from scene understanding
   6. Text-to-speech using Tacotron2 (tts_models/en/ljspeech/tacotron2-DDC)
 
+---
 title: MutimodalVisionAssistant
 emoji: 🏢
 colorFrom: yellow
