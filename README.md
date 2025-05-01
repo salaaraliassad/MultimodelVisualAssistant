@@ -13,6 +13,11 @@ The app can be found on Hugging Face Space using the following link: https://hug
   5. Shared visual context generation from scene understanding
   6. Text-to-speech using Tacotron2 (tts_models/en/ljspeech/tacotron2-DDC)
 
+**Directory:**
+  1. The Evaluation folder contains the code used to evaluate the model on the VizWiz dataset.
+  2. The YOLOv9_finetuning folder contains the code used to finetune the YOLOv9 model on the VizWiz dataset.
+  3. The remaining files are used for running the app on Hugging Face
+
 ---
 title: MutimodalVisionAssistant
 
