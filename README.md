@@ -15,15 +15,25 @@ The app can be found on Hugging Face Space using the following link: https://hug
 
 ---
 title: MutimodalVisionAssistant
+
 emoji: 🏢
+
 colorFrom: yellow
+
 colorTo: red
+
 sdk: gradio
+
 sdk_version: 5.27.0
+
 app_file: app.py
+
 pinned: false
+
 license: mit
+
 short_description: Multimodal AI for Visual Impairment Support
+
 models:
 - Intel/dpt-large
 - openai/whisper-small
